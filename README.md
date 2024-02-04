@@ -1,2 +1,1 @@
-# companyTemplate
-CompanyTemplate
+
